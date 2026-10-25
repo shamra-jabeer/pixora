@@ -1,0 +1,7 @@
+uploads/posts/*
+uploads/profiles/*
+!uploads/posts/.gitkeep
+!uploads/profiles/.gitkeep
+debug_likes.php
+test_connection.php
+.vscode/
